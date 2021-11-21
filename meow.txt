@@ -1,0 +1,8 @@
+1,Ahmed,25,Asia,Worker
+2,Steven,45,Asia,Retired
+3,Carlos,21,America,Worker
+4,Esteban,10,Africa,Student
+5,Mohammed,9,Asia,Student
+6,Ali,60,Europe,Retired
+7,Alex,50,Africa,Retired
+8,Manuel,29,Asia,Worker
